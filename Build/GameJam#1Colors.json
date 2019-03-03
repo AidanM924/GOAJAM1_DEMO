@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GOA PROJECT JAM 1",
+"dataUrl": "GameJam#1Colors.data.unityweb",
+"wasmCodeUrl": "GameJam#1Colors.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameJam#1Colors.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
